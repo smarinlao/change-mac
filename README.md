@@ -1,5 +1,6 @@
 # change-mac
-Change your MAC in Linux
+Change your MAC in Linux.
+
 Caution: First it is advisable to ensure that the laws of our country do not explicitly prohibit this change of physical address of network cards.
 ### Requirements
 Have net-tools installed
