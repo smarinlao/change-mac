@@ -4,6 +4,7 @@ Change your MAC in Linux.
 Caution: First it is advisable to ensure that the laws of our country do not explicitly prohibit this change of physical address of network cards.
 ### Requirements
 Have net-tools installed
+
 To install net-tools on Red Hat based systems:
 
 <code>yum -y install net-tools</code>
